@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa83e30013c1113409d43b9e21afdba2
+timeCreated: 1533551981
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - voronoiTile: {fileID: 124074, guid: 7f6f04341d19e2541914705044c84afb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
